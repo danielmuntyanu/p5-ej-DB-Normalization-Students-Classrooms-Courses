@@ -3,6 +3,8 @@
 ## Description
 Goal: Normalize this database to 3nf level of normalization. 
 
+## Initial database
+[Initial database](assets/database-initial.pdf)
 ## Finalized database (3nf)
 [Finalized database](assets/database-final.pdf)
 
